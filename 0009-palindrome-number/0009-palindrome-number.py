@@ -1,13 +1,7 @@
 class Solution(object):
     def isPalindrome(self, x):
-        if x < 0:
-            return False
-        a = x
-        b = 0
-        while x != 0:
-            b = b*10 + x%10
-            x = x // 10
-        if a == b:
+        x_str = str(x)
+        if str(x)[::-1] == x_str:
             return True
         return False
         
