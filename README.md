@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/MeoCam-lazy/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MeoCam-lazy/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/MeoCam-lazy/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/MeoCam-lazy/leetcode/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
@@ -48,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MeoCam-lazy/leetcode/tree/master/0020-valid-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/MeoCam-lazy/leetcode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/MeoCam-lazy/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
