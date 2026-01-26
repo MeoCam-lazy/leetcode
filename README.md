@@ -14,12 +14,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MeoCam-lazy/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/MeoCam-lazy/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MeoCam-lazy/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0268-missing-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0268-missing-number) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/MeoCam-lazy/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MeoCam-lazy/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/MeoCam-lazy/leetcode/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/MeoCam-lazy/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/MeoCam-lazy/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/MeoCam-lazy/leetcode/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -58,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/MeoCam-lazy/leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
@@ -89,11 +93,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/MeoCam-lazy/leetcode/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0268-missing-number) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/MeoCam-lazy/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/MeoCam-lazy/leetcode/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
