@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MeoCam-lazy/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0268-missing-number) |
 | [1051-height-checker](https://github.com/MeoCam-lazy/leetcode/tree/master/1051-height-checker) |
+| [1732-find-the-highest-altitude](https://github.com/MeoCam-lazy/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/MeoCam-lazy/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Hash Table
 |  |
@@ -122,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/MeoCam-lazy/leetcode/tree/master/1051-height-checker) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/MeoCam-lazy/leetcode/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
