@@ -24,6 +24,7 @@ class Solution {
         }
         else{
             path = path + String.valueOf(node.val) + "->";
+            //string in java is object, reference -_-
             findPath(node.left,path,ans);
             findPath(node.right,path,ans);
         }
