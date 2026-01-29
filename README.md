@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/MeoCam-lazy/leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/MeoCam-lazy/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/MeoCam-lazy/leetcode/tree/master/0067-add-binary) |
+| [0257-binary-tree-paths](https://github.com/MeoCam-lazy/leetcode/tree/master/0257-binary-tree-paths) |
 | [0392-is-subsequence](https://github.com/MeoCam-lazy/leetcode/tree/master/0392-is-subsequence) |
 ## Two Pointers
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/MeoCam-lazy/leetcode/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MeoCam-lazy/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/MeoCam-lazy/leetcode/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/MeoCam-lazy/leetcode/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MeoCam-lazy/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/MeoCam-lazy/leetcode/tree/master/0257-binary-tree-paths) |
 ## Counting Sort
 |  |
 | ------- |
@@ -133,8 +136,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/MeoCam-lazy/leetcode/tree/master/0100-same-tree) |
+| [0257-binary-tree-paths](https://github.com/MeoCam-lazy/leetcode/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/MeoCam-lazy/leetcode/tree/master/0100-same-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/MeoCam-lazy/leetcode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
