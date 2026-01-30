@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/MeoCam-lazy/leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/MeoCam-lazy/leetcode/tree/master/1025-divisor-game) |
 ## Recursion
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/MeoCam-lazy/leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/MeoCam-lazy/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [1025-divisor-game](https://github.com/MeoCam-lazy/leetcode/tree/master/1025-divisor-game) |
 ## Memoization
 |  |
 | ------- |
@@ -149,4 +151,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/MeoCam-lazy/leetcode/tree/master/0257-binary-tree-paths) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/MeoCam-lazy/leetcode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/MeoCam-lazy/leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
