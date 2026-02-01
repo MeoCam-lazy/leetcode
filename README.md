@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MeoCam-lazy/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/MeoCam-lazy/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MeoCam-lazy/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0200-number-of-islands](https://github.com/MeoCam-lazy/leetcode/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0268-missing-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/MeoCam-lazy/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1051-height-checker](https://github.com/MeoCam-lazy/leetcode/tree/master/1051-height-checker) |
@@ -145,11 +146,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/MeoCam-lazy/leetcode/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/MeoCam-lazy/leetcode/tree/master/0200-number-of-islands) |
 | [0257-binary-tree-paths](https://github.com/MeoCam-lazy/leetcode/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/MeoCam-lazy/leetcode/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/MeoCam-lazy/leetcode/tree/master/0200-number-of-islands) |
 ## Backtracking
 |  |
 | ------- |
@@ -162,4 +165,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/MeoCam-lazy/leetcode/tree/master/1025-divisor-game) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/MeoCam-lazy/leetcode/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/MeoCam-lazy/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
