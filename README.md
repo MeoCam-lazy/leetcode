@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/MeoCam-lazy/leetcode/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0268-missing-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/MeoCam-lazy/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0881-boats-to-save-people](https://github.com/MeoCam-lazy/leetcode/tree/master/0881-boats-to-save-people) |
 | [1051-height-checker](https://github.com/MeoCam-lazy/leetcode/tree/master/1051-height-checker) |
 | [1732-find-the-highest-altitude](https://github.com/MeoCam-lazy/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/MeoCam-lazy/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/MeoCam-lazy/leetcode/tree/master/0088-merge-sorted-array) |
 | [0392-is-subsequence](https://github.com/MeoCam-lazy/leetcode/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/MeoCam-lazy/leetcode/tree/master/0647-palindromic-substrings) |
+| [0881-boats-to-save-people](https://github.com/MeoCam-lazy/leetcode/tree/master/0881-boats-to-save-people) |
 ## Binary Search
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/MeoCam-lazy/leetcode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0268-missing-number) |
+| [0881-boats-to-save-people](https://github.com/MeoCam-lazy/leetcode/tree/master/0881-boats-to-save-people) |
 | [1051-height-checker](https://github.com/MeoCam-lazy/leetcode/tree/master/1051-height-checker) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/MeoCam-lazy/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Bit Manipulation
@@ -176,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/MeoCam-lazy/leetcode/tree/master/0200-number-of-islands) |
+## Greedy
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/MeoCam-lazy/leetcode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
