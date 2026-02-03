@@ -1,5 +1,5 @@
 # leetcode
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=MeoCam-lazy&theme=dark)
+![Leetcode Stats](https://leetcard.jacoblin.cool/SunBurn)
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
