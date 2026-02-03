@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/MeoCam-lazy/leetcode/tree/master/0069-sqrtx) |
+| [0222-count-complete-tree-nodes](https://github.com/MeoCam-lazy/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0268-missing-number) |
 ## Stack
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/MeoCam-lazy/leetcode/tree/master/0067-add-binary) |
+| [0222-count-complete-tree-nodes](https://github.com/MeoCam-lazy/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/MeoCam-lazy/leetcode/tree/master/0338-counting-bits) |
 ## Simulation
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/MeoCam-lazy/leetcode/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MeoCam-lazy/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/MeoCam-lazy/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/MeoCam-lazy/leetcode/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
 |  |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/MeoCam-lazy/leetcode/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MeoCam-lazy/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/MeoCam-lazy/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/MeoCam-lazy/leetcode/tree/master/0257-binary-tree-paths) |
 ## Counting Sort
 |  |
