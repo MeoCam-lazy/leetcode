@@ -1,5 +1,5 @@
 # leetcode
-![Leetcode Stats](https://leetcard.jacoblin.cool/U3Z5pjM3c4)
+![Leetcode Stats](https://leetcard.jacoblin.cool/0rangeCat)
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
