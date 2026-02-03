@@ -1,5 +1,5 @@
 # leetcode
-![Leetcode Stats](https://leetcard.jacoblin.cool/SunBurn)
+![Leetcode Stats](https://leetcard.jacoblin.cool/U3Z5pjM3c4)
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
