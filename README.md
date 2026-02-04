@@ -18,6 +18,7 @@
 | [0268-missing-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0268-missing-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/MeoCam-lazy/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0881-boats-to-save-people](https://github.com/MeoCam-lazy/leetcode/tree/master/0881-boats-to-save-people) |
+| [0997-find-the-town-judge](https://github.com/MeoCam-lazy/leetcode/tree/master/0997-find-the-town-judge) |
 | [1051-height-checker](https://github.com/MeoCam-lazy/leetcode/tree/master/1051-height-checker) |
 | [1732-find-the-highest-altitude](https://github.com/MeoCam-lazy/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/MeoCam-lazy/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -27,6 +28,7 @@
 | [0001-two-sum](https://github.com/MeoCam-lazy/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/MeoCam-lazy/leetcode/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0268-missing-number) |
+| [0997-find-the-town-judge](https://github.com/MeoCam-lazy/leetcode/tree/master/0997-find-the-town-judge) |
 ## Linked List
 |  |
 | ------- |
@@ -203,4 +205,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/MeoCam-lazy/leetcode/tree/master/0278-first-bad-version) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/MeoCam-lazy/leetcode/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
