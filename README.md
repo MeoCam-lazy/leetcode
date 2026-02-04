@@ -171,12 +171,14 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/MeoCam-lazy/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0200-number-of-islands](https://github.com/MeoCam-lazy/leetcode/tree/master/0200-number-of-islands) |
 | [0257-binary-tree-paths](https://github.com/MeoCam-lazy/leetcode/tree/master/0257-binary-tree-paths) |
+| [1971-find-if-path-exists-in-graph](https://github.com/MeoCam-lazy/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/MeoCam-lazy/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/MeoCam-lazy/leetcode/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/MeoCam-lazy/leetcode/tree/master/0200-number-of-islands) |
+| [1971-find-if-path-exists-in-graph](https://github.com/MeoCam-lazy/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Backtracking
 |  |
 | ------- |
@@ -193,6 +195,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/MeoCam-lazy/leetcode/tree/master/0200-number-of-islands) |
+| [1971-find-if-path-exists-in-graph](https://github.com/MeoCam-lazy/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
 | ------- |
@@ -210,4 +213,5 @@
 | ------- |
 | [0997-find-the-town-judge](https://github.com/MeoCam-lazy/leetcode/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/MeoCam-lazy/leetcode/tree/master/1791-find-center-of-star-graph) |
+| [1971-find-if-path-exists-in-graph](https://github.com/MeoCam-lazy/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
