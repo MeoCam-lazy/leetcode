@@ -149,6 +149,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/MeoCam-lazy/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/MeoCam-lazy/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/MeoCam-lazy/leetcode/tree/master/0257-binary-tree-paths) |
+| [2236-root-equals-sum-of-children](https://github.com/MeoCam-lazy/leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -165,6 +166,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/MeoCam-lazy/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/MeoCam-lazy/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/MeoCam-lazy/leetcode/tree/master/0257-binary-tree-paths) |
+| [2236-root-equals-sum-of-children](https://github.com/MeoCam-lazy/leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Counting Sort
 |  |
 | ------- |
