@@ -47,6 +47,7 @@
 | [0067-add-binary](https://github.com/MeoCam-lazy/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/MeoCam-lazy/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/MeoCam-lazy/leetcode/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/MeoCam-lazy/leetcode/tree/master/1025-divisor-game) |
@@ -64,6 +65,7 @@
 | [0058-length-of-last-word](https://github.com/MeoCam-lazy/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/MeoCam-lazy/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/MeoCam-lazy/leetcode/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/MeoCam-lazy/leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/MeoCam-lazy/leetcode/tree/master/0257-binary-tree-paths) |
 | [0392-is-subsequence](https://github.com/MeoCam-lazy/leetcode/tree/master/0392-is-subsequence) |
