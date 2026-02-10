@@ -63,6 +63,7 @@
 | [0020-valid-parentheses](https://github.com/MeoCam-lazy/leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/MeoCam-lazy/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/MeoCam-lazy/leetcode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/MeoCam-lazy/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/MeoCam-lazy/leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/MeoCam-lazy/leetcode/tree/master/0257-binary-tree-paths) |
 | [0392-is-subsequence](https://github.com/MeoCam-lazy/leetcode/tree/master/0392-is-subsequence) |
@@ -72,6 +73,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MeoCam-lazy/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/MeoCam-lazy/leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/MeoCam-lazy/leetcode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/MeoCam-lazy/leetcode/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/MeoCam-lazy/leetcode/tree/master/0647-palindromic-substrings) |
 | [0881-boats-to-save-people](https://github.com/MeoCam-lazy/leetcode/tree/master/0881-boats-to-save-people) |
