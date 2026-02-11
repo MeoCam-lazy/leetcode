@@ -30,6 +30,7 @@
 | [0013-roman-to-integer](https://github.com/MeoCam-lazy/leetcode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/MeoCam-lazy/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/MeoCam-lazy/leetcode/tree/master/0389-find-the-difference) |
 | [0846-hand-of-straights](https://github.com/MeoCam-lazy/leetcode/tree/master/0846-hand-of-straights) |
 | [0997-find-the-town-judge](https://github.com/MeoCam-lazy/leetcode/tree/master/0997-find-the-town-judge) |
 ## Linked List
@@ -69,6 +70,7 @@
 | [0242-valid-anagram](https://github.com/MeoCam-lazy/leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/MeoCam-lazy/leetcode/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MeoCam-lazy/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/MeoCam-lazy/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/MeoCam-lazy/leetcode/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/MeoCam-lazy/leetcode/tree/master/0647-palindromic-substrings) |
 ## Two Pointers
@@ -129,6 +131,7 @@
 | [0088-merge-sorted-array](https://github.com/MeoCam-lazy/leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/MeoCam-lazy/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/MeoCam-lazy/leetcode/tree/master/0389-find-the-difference) |
 | [0846-hand-of-straights](https://github.com/MeoCam-lazy/leetcode/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/MeoCam-lazy/leetcode/tree/master/0881-boats-to-save-people) |
 | [1051-height-checker](https://github.com/MeoCam-lazy/leetcode/tree/master/1051-height-checker) |
@@ -140,6 +143,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/MeoCam-lazy/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/MeoCam-lazy/leetcode/tree/master/0338-counting-bits) |
+| [0389-find-the-difference](https://github.com/MeoCam-lazy/leetcode/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
 | ------- |
