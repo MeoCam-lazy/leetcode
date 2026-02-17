@@ -7,14 +7,11 @@ public:
         int i = 0;
         int j = 0;
         while(j < s.size() && i < g.size()){
-            while(j < s.size() && s[j] < g[i] ){
-                j++;
-            }
-            if( j < s.size() && s[j] >= g[i]){
+            if(s[j] >= g[i]){
                 count++;
-                j++;
+                i++;
             }
-            i++;
+            j++;
         }
         return count;
     }
