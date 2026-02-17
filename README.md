@@ -8,6 +8,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/MeoCam-lazy/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MeoCam-lazy/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/MeoCam-lazy/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/MeoCam-lazy/leetcode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/MeoCam-lazy/leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/MeoCam-lazy/leetcode/tree/master/0066-plus-one) |
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MeoCam-lazy/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/MeoCam-lazy/leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/MeoCam-lazy/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/MeoCam-lazy/leetcode/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MeoCam-lazy/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -100,6 +102,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MeoCam-lazy/leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/MeoCam-lazy/leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/MeoCam-lazy/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MeoCam-lazy/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Divide and Conquer
@@ -110,6 +113,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/MeoCam-lazy/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/MeoCam-lazy/leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/MeoCam-lazy/leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/MeoCam-lazy/leetcode/tree/master/0064-minimum-path-sum) |
@@ -269,4 +273,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/MeoCam-lazy/leetcode/tree/master/0062-unique-paths) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/MeoCam-lazy/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
