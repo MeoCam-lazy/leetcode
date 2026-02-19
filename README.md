@@ -86,6 +86,7 @@
 | [0042-trapping-rain-water](https://github.com/MeoCam-lazy/leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/MeoCam-lazy/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/MeoCam-lazy/leetcode/tree/master/0125-valid-palindrome) |
+| [0295-find-median-from-data-stream](https://github.com/MeoCam-lazy/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MeoCam-lazy/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/MeoCam-lazy/leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/MeoCam-lazy/leetcode/tree/master/0455-assign-cookies) |
@@ -143,6 +144,7 @@
 | [0088-merge-sorted-array](https://github.com/MeoCam-lazy/leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/MeoCam-lazy/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/MeoCam-lazy/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0389-find-the-difference](https://github.com/MeoCam-lazy/leetcode/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/MeoCam-lazy/leetcode/tree/master/0455-assign-cookies) |
 | [0846-hand-of-straights](https://github.com/MeoCam-lazy/leetcode/tree/master/0846-hand-of-straights) |
@@ -277,4 +279,16 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MeoCam-lazy/leetcode/tree/master/0042-trapping-rain-water) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/MeoCam-lazy/leetcode/tree/master/0295-find-median-from-data-stream) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/MeoCam-lazy/leetcode/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/MeoCam-lazy/leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
