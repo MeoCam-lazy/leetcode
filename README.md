@@ -59,6 +59,7 @@
 | [0509-fibonacci-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/MeoCam-lazy/leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/MeoCam-lazy/leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1323-maximum-69-number](https://github.com/MeoCam-lazy/leetcode/tree/master/1323-maximum-69-number) |
 ## Recursion
 |  |
 | ------- |
@@ -263,6 +264,7 @@
 | [0605-can-place-flowers](https://github.com/MeoCam-lazy/leetcode/tree/master/0605-can-place-flowers) |
 | [0846-hand-of-straights](https://github.com/MeoCam-lazy/leetcode/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/MeoCam-lazy/leetcode/tree/master/0881-boats-to-save-people) |
+| [1323-maximum-69-number](https://github.com/MeoCam-lazy/leetcode/tree/master/1323-maximum-69-number) |
 ## Interactive
 |  |
 | ------- |
