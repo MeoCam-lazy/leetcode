@@ -27,6 +27,7 @@
 | [1051-height-checker](https://github.com/MeoCam-lazy/leetcode/tree/master/1051-height-checker) |
 | [1732-find-the-highest-altitude](https://github.com/MeoCam-lazy/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/MeoCam-lazy/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2706-buy-two-chocolates](https://github.com/MeoCam-lazy/leetcode/tree/master/2706-buy-two-chocolates) |
 ## Hash Table
 |  |
 | ------- |
@@ -153,6 +154,7 @@
 | [0881-boats-to-save-people](https://github.com/MeoCam-lazy/leetcode/tree/master/0881-boats-to-save-people) |
 | [1051-height-checker](https://github.com/MeoCam-lazy/leetcode/tree/master/1051-height-checker) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/MeoCam-lazy/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2706-buy-two-chocolates](https://github.com/MeoCam-lazy/leetcode/tree/master/2706-buy-two-chocolates) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -265,6 +267,7 @@
 | [0846-hand-of-straights](https://github.com/MeoCam-lazy/leetcode/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/MeoCam-lazy/leetcode/tree/master/0881-boats-to-save-people) |
 | [1323-maximum-69-number](https://github.com/MeoCam-lazy/leetcode/tree/master/1323-maximum-69-number) |
+| [2706-buy-two-chocolates](https://github.com/MeoCam-lazy/leetcode/tree/master/2706-buy-two-chocolates) |
 ## Interactive
 |  |
 | ------- |
