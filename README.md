@@ -16,6 +16,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MeoCam-lazy/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/MeoCam-lazy/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MeoCam-lazy/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/MeoCam-lazy/leetcode/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/MeoCam-lazy/leetcode/tree/master/0455-assign-cookies) |
@@ -162,6 +163,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/MeoCam-lazy/leetcode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/MeoCam-lazy/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/MeoCam-lazy/leetcode/tree/master/0338-counting-bits) |
