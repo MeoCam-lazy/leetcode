@@ -304,4 +304,8 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/MeoCam-lazy/leetcode/tree/master/0295-find-median-from-data-stream) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/MeoCam-lazy/leetcode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
