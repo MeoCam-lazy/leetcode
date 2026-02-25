@@ -26,6 +26,7 @@
 | [0881-boats-to-save-people](https://github.com/MeoCam-lazy/leetcode/tree/master/0881-boats-to-save-people) |
 | [0997-find-the-town-judge](https://github.com/MeoCam-lazy/leetcode/tree/master/0997-find-the-town-judge) |
 | [1051-height-checker](https://github.com/MeoCam-lazy/leetcode/tree/master/1051-height-checker) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/MeoCam-lazy/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1732-find-the-highest-altitude](https://github.com/MeoCam-lazy/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/MeoCam-lazy/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2706-buy-two-chocolates](https://github.com/MeoCam-lazy/leetcode/tree/master/2706-buy-two-chocolates) |
@@ -159,6 +160,7 @@
 | [0846-hand-of-straights](https://github.com/MeoCam-lazy/leetcode/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/MeoCam-lazy/leetcode/tree/master/0881-boats-to-save-people) |
 | [1051-height-checker](https://github.com/MeoCam-lazy/leetcode/tree/master/1051-height-checker) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/MeoCam-lazy/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/MeoCam-lazy/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2706-buy-two-chocolates](https://github.com/MeoCam-lazy/leetcode/tree/master/2706-buy-two-chocolates) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/MeoCam-lazy/leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -172,6 +174,7 @@
 | [0268-missing-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/MeoCam-lazy/leetcode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/MeoCam-lazy/leetcode/tree/master/0389-find-the-difference) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/MeoCam-lazy/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Simulation
 |  |
 | ------- |
@@ -217,6 +220,7 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/MeoCam-lazy/leetcode/tree/master/1051-height-checker) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/MeoCam-lazy/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Prefix Sum
 |  |
 | ------- |
