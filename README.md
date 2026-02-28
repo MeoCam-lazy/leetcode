@@ -37,6 +37,7 @@
 | [0001-two-sum](https://github.com/MeoCam-lazy/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/MeoCam-lazy/leetcode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/MeoCam-lazy/leetcode/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/MeoCam-lazy/leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/MeoCam-lazy/leetcode/tree/master/0389-find-the-difference) |
 | [0846-hand-of-straights](https://github.com/MeoCam-lazy/leetcode/tree/master/0846-hand-of-straights) |
@@ -62,6 +63,7 @@
 | [0171-excel-sheet-column-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/MeoCam-lazy/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0263-ugly-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/MeoCam-lazy/leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/MeoCam-lazy/leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0509-fibonacci-number) |
@@ -132,6 +134,7 @@
 | [0070-climbing-stairs](https://github.com/MeoCam-lazy/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/MeoCam-lazy/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MeoCam-lazy/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0264-ugly-number-ii](https://github.com/MeoCam-lazy/leetcode/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/MeoCam-lazy/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/MeoCam-lazy/leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0509-fibonacci-number) |
@@ -308,6 +311,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/MeoCam-lazy/leetcode/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/MeoCam-lazy/leetcode/tree/master/0295-find-median-from-data-stream) |
 ## Data Stream
 |  |
