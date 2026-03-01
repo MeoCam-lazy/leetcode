@@ -47,5 +47,6 @@ public:
             }
         }
         return (int)answer;
+        //Note: I used long long to avoid overflow
     }
 };
