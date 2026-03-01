@@ -69,6 +69,7 @@
 | [0509-fibonacci-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/MeoCam-lazy/leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/MeoCam-lazy/leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1201-ugly-number-iii](https://github.com/MeoCam-lazy/leetcode/tree/master/1201-ugly-number-iii) |
 | [1323-maximum-69-number](https://github.com/MeoCam-lazy/leetcode/tree/master/1323-maximum-69-number) |
 ## Recursion
 |  |
@@ -111,6 +112,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/MeoCam-lazy/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/MeoCam-lazy/leetcode/tree/master/0278-first-bad-version) |
+| [1201-ugly-number-iii](https://github.com/MeoCam-lazy/leetcode/tree/master/1201-ugly-number-iii) |
 ## Stack
 |  |
 | ------- |
@@ -300,6 +302,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/MeoCam-lazy/leetcode/tree/master/0062-unique-paths) |
+| [1201-ugly-number-iii](https://github.com/MeoCam-lazy/leetcode/tree/master/1201-ugly-number-iii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -323,4 +326,8 @@
 | [0175-combine-two-tables](https://github.com/MeoCam-lazy/leetcode/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/MeoCam-lazy/leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/MeoCam-lazy/leetcode/tree/master/0182-duplicate-emails) |
+## Number Theory
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/MeoCam-lazy/leetcode/tree/master/1201-ugly-number-iii) |
 <!---LeetCode Topics End-->
