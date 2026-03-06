@@ -44,6 +44,7 @@
 | [0389-find-the-difference](https://github.com/MeoCam-lazy/leetcode/tree/master/0389-find-the-difference) |
 | [0846-hand-of-straights](https://github.com/MeoCam-lazy/leetcode/tree/master/0846-hand-of-straights) |
 | [0997-find-the-town-judge](https://github.com/MeoCam-lazy/leetcode/tree/master/0997-find-the-town-judge) |
+| [1763-longest-nice-substring](https://github.com/MeoCam-lazy/leetcode/tree/master/1763-longest-nice-substring) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/MeoCam-lazy/leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Linked List
 |  |
@@ -96,6 +97,7 @@
 | [0412-fizz-buzz](https://github.com/MeoCam-lazy/leetcode/tree/master/0412-fizz-buzz) |
 | [0647-palindromic-substrings](https://github.com/MeoCam-lazy/leetcode/tree/master/0647-palindromic-substrings) |
 | [1108-defanging-an-ip-address](https://github.com/MeoCam-lazy/leetcode/tree/master/1108-defanging-an-ip-address) |
+| [1763-longest-nice-substring](https://github.com/MeoCam-lazy/leetcode/tree/master/1763-longest-nice-substring) |
 ## Two Pointers
 |  |
 | ------- |
@@ -133,6 +135,7 @@
 | [0053-maximum-subarray](https://github.com/MeoCam-lazy/leetcode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MeoCam-lazy/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0191-number-of-1-bits](https://github.com/MeoCam-lazy/leetcode/tree/master/0191-number-of-1-bits) |
+| [1763-longest-nice-substring](https://github.com/MeoCam-lazy/leetcode/tree/master/1763-longest-nice-substring) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -160,6 +163,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1763-longest-nice-substring](https://github.com/MeoCam-lazy/leetcode/tree/master/1763-longest-nice-substring) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/MeoCam-lazy/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Sorting
 |  |
@@ -188,6 +192,7 @@
 | [0338-counting-bits](https://github.com/MeoCam-lazy/leetcode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/MeoCam-lazy/leetcode/tree/master/0389-find-the-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/MeoCam-lazy/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1763-longest-nice-substring](https://github.com/MeoCam-lazy/leetcode/tree/master/1763-longest-nice-substring) |
 ## Simulation
 |  |
 | ------- |
