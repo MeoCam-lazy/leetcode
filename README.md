@@ -69,6 +69,7 @@
 | [0264-ugly-number-ii](https://github.com/MeoCam-lazy/leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/MeoCam-lazy/leetcode/tree/master/0412-fizz-buzz) |
+| [0507-perfect-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/MeoCam-lazy/leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/MeoCam-lazy/leetcode/tree/master/1137-n-th-tribonacci-number) |
