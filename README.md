@@ -67,6 +67,7 @@
 | [0070-climbing-stairs](https://github.com/MeoCam-lazy/leetcode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/MeoCam-lazy/leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0231-power-of-two](https://github.com/MeoCam-lazy/leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/MeoCam-lazy/leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0268-missing-number) |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MeoCam-lazy/leetcode/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/MeoCam-lazy/leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0509-fibonacci-number) |
 ## String
 |  |
@@ -194,6 +196,7 @@
 | [0136-single-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/MeoCam-lazy/leetcode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/MeoCam-lazy/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/MeoCam-lazy/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/MeoCam-lazy/leetcode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/MeoCam-lazy/leetcode/tree/master/0389-find-the-difference) |
