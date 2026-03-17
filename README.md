@@ -43,6 +43,7 @@
 | [0242-valid-anagram](https://github.com/MeoCam-lazy/leetcode/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/MeoCam-lazy/leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/MeoCam-lazy/leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/MeoCam-lazy/leetcode/tree/master/0389-find-the-difference) |
 | [0846-hand-of-straights](https://github.com/MeoCam-lazy/leetcode/tree/master/0846-hand-of-straights) |
 | [0997-find-the-town-judge](https://github.com/MeoCam-lazy/leetcode/tree/master/0997-find-the-town-judge) |
@@ -98,6 +99,7 @@
 | [0242-valid-anagram](https://github.com/MeoCam-lazy/leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/MeoCam-lazy/leetcode/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MeoCam-lazy/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/MeoCam-lazy/leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/MeoCam-lazy/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/MeoCam-lazy/leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/MeoCam-lazy/leetcode/tree/master/0412-fizz-buzz) |
@@ -246,6 +248,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/MeoCam-lazy/leetcode/tree/master/0383-ransom-note) |
 | [1051-height-checker](https://github.com/MeoCam-lazy/leetcode/tree/master/1051-height-checker) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/MeoCam-lazy/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Prefix Sum
