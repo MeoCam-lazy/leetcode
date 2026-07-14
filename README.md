@@ -44,6 +44,7 @@
 | [0013-roman-to-integer](https://github.com/MeoCam-lazy/leetcode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/MeoCam-lazy/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MeoCam-lazy/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/MeoCam-lazy/leetcode/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/MeoCam-lazy/leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0268-missing-number) |
@@ -76,6 +77,7 @@
 | [0070-climbing-stairs](https://github.com/MeoCam-lazy/leetcode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/MeoCam-lazy/leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/MeoCam-lazy/leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/MeoCam-lazy/leetcode/tree/master/0264-ugly-number-ii) |
@@ -129,6 +131,7 @@
 | [0141-linked-list-cycle](https://github.com/MeoCam-lazy/leetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/MeoCam-lazy/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MeoCam-lazy/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/MeoCam-lazy/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MeoCam-lazy/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/MeoCam-lazy/leetcode/tree/master/0392-is-subsequence) |
