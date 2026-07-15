@@ -82,6 +82,7 @@
 | [0263-ugly-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/MeoCam-lazy/leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/MeoCam-lazy/leetcode/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/MeoCam-lazy/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/MeoCam-lazy/leetcode/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0507-perfect-number) |
@@ -322,10 +323,12 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/MeoCam-lazy/leetcode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/MeoCam-lazy/leetcode/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/MeoCam-lazy/leetcode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/MeoCam-lazy/leetcode/tree/master/1025-divisor-game) |
 ## Union-Find
 |  |
