@@ -1,3 +1,7 @@
+# 💻 LeetCode Practice Journey 🚀
+
+Welcome to my repository dedicated to tracking my progress and solutions for **LeetCode** algorithmic problems. This repository serves as a personal playground to sharpen my problem-solving skills, master data structures & algorithms (DSA), and write cleaner, more optimized code.
+
 # leetcode
 ![Leetcode Stats](https://leetcard.jacoblin.cool/0rangeCat)
 
