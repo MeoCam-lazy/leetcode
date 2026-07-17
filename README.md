@@ -24,6 +24,7 @@ Welcome to my repository dedicated to tracking my progress and solutions for **L
 | [0136-single-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/MeoCam-lazy/leetcode/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/MeoCam-lazy/leetcode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/MeoCam-lazy/leetcode/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/MeoCam-lazy/leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/MeoCam-lazy/leetcode/tree/master/0463-island-perimeter) |
@@ -137,6 +138,7 @@ Welcome to my repository dedicated to tracking my progress and solutions for **L
 | [0151-reverse-words-in-a-string](https://github.com/MeoCam-lazy/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MeoCam-lazy/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/MeoCam-lazy/leetcode/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/MeoCam-lazy/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MeoCam-lazy/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/MeoCam-lazy/leetcode/tree/master/0392-is-subsequence) |
