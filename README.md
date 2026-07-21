@@ -91,6 +91,7 @@ Welcome to my repository dedicated to tracking my progress and solutions for **L
 | [0292-nim-game](https://github.com/MeoCam-lazy/leetcode/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/MeoCam-lazy/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/MeoCam-lazy/leetcode/tree/master/0415-add-strings) |
+| [0504-base-7](https://github.com/MeoCam-lazy/leetcode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/MeoCam-lazy/leetcode/tree/master/1025-divisor-game) |
@@ -126,6 +127,7 @@ Welcome to my repository dedicated to tracking my progress and solutions for **L
 | [0409-longest-palindrome](https://github.com/MeoCam-lazy/leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/MeoCam-lazy/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/MeoCam-lazy/leetcode/tree/master/0415-add-strings) |
+| [0504-base-7](https://github.com/MeoCam-lazy/leetcode/tree/master/0504-base-7) |
 | [0647-palindromic-substrings](https://github.com/MeoCam-lazy/leetcode/tree/master/0647-palindromic-substrings) |
 | [1108-defanging-an-ip-address](https://github.com/MeoCam-lazy/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1763-longest-nice-substring](https://github.com/MeoCam-lazy/leetcode/tree/master/1763-longest-nice-substring) |
