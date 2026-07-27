@@ -177,6 +177,7 @@ Welcome to my repository dedicated to tracking my progress and solutions for **L
 | ------- |
 | [0053-maximum-subarray](https://github.com/MeoCam-lazy/leetcode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MeoCam-lazy/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0190-reverse-bits](https://github.com/MeoCam-lazy/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/MeoCam-lazy/leetcode/tree/master/0191-number-of-1-bits) |
 | [1763-longest-nice-substring](https://github.com/MeoCam-lazy/leetcode/tree/master/1763-longest-nice-substring) |
 ## Dynamic Programming
@@ -232,6 +233,7 @@ Welcome to my repository dedicated to tracking my progress and solutions for **L
 | ------- |
 | [0067-add-binary](https://github.com/MeoCam-lazy/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/MeoCam-lazy/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/MeoCam-lazy/leetcode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/MeoCam-lazy/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/MeoCam-lazy/leetcode/tree/master/0231-power-of-two) |
