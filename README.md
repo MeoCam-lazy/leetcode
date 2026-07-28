@@ -26,6 +26,7 @@ Welcome to my repository dedicated to tracking my progress and solutions for **L
 | [0268-missing-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MeoCam-lazy/leetcode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/MeoCam-lazy/leetcode/tree/master/0322-coin-change) |
+| [0414-third-maximum-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/MeoCam-lazy/leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/MeoCam-lazy/leetcode/tree/master/0463-island-perimeter) |
 | [0605-can-place-flowers](https://github.com/MeoCam-lazy/leetcode/tree/master/0605-can-place-flowers) |
@@ -220,6 +221,7 @@ Welcome to my repository dedicated to tracking my progress and solutions for **L
 | [0268-missing-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/MeoCam-lazy/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0389-find-the-difference](https://github.com/MeoCam-lazy/leetcode/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/MeoCam-lazy/leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/MeoCam-lazy/leetcode/tree/master/0455-assign-cookies) |
 | [0846-hand-of-straights](https://github.com/MeoCam-lazy/leetcode/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/MeoCam-lazy/leetcode/tree/master/0881-boats-to-save-people) |
