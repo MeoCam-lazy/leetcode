@@ -413,6 +413,7 @@ Welcome to my repository dedicated to tracking my progress and solutions for **L
 | [0183-customers-who-never-order](https://github.com/MeoCam-lazy/leetcode/tree/master/0183-customers-who-never-order) |
 | [0577-employee-bonus](https://github.com/MeoCam-lazy/leetcode/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/MeoCam-lazy/leetcode/tree/master/0595-big-countries) |
+| [0620-not-boring-movies](https://github.com/MeoCam-lazy/leetcode/tree/master/0620-not-boring-movies) |
 ## Number Theory
 |  |
 | ------- |
